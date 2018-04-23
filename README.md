@@ -1,4 +1,4 @@
-# fedmsg_tweet_app
+# Tweeter App
 Simple consumer subscribing to messages on fedmsg bus.
 Everytime there is a message on the bus, send a tweet with message title
 
